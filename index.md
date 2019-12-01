@@ -1,37 +1,46 @@
-## Welcome to GitHub Pages
+---
+layout: index
+title: 星合の空
+---
+## Contact
 
-You can use the [editor on GitHub](https://github.com/zhkai101/sky.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+- Address: **Sun Yat-sen University - 132 Waihuan East Rd. - Guangzhou, China**
+- Phone: **+86 18756280097**
+- E-mail:
+  - **wu.kan@foxmail.com**
+  - **wukan3@mail2.sysu.edu.cn**
+  - **im.wu.kan@gmail.com**
+- WeChat: **Wu-_-Kan**
+- QQ: **942759535**
+- Blog: **<https://wu-kan.github.io>**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Education
 
-### Markdown
+School of Data and Computer Science, Sun Yat-sen University, Guangzhou, Sept. 2017 - Jul. 2021(expected)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Bachelor of Computer Science (Supercomputer Class)
+  - Principle of Supercomputer
+  - Parallel and Distributed Computing
+  - High Performance Computing
 
-```markdown
-Syntax highlighted code block
+## Award
 
-# Header 1
-## Header 2
-### Header 3
+- **Silver Medal**, ICPC Asia Regional Contest Xuzhou Site, Nov. 2019
+- **Second Scholarship**, Oct. 2019
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2019
+- **Third Scholarship**, Oct. 2018
+- **First Prize**, China Collegiate Programming Contest, Guangdong Division, May 2018
 
-- Bulleted
-- List
+## Skill
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zhkai101/sky.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- **C/C++**, Familiar
+  - **OpenMP**, Familiar
+  - **MPI**, Familiar&Learning
+  - **CUDA**, Learning
+- **Python**, Familiar
+- **Markdown**, Familiar
+- **LaTex**, Familiar
+- **Linux**, Familiar&Learning
+- **Git**, Familiar
+- **VSCode**, Familiar
+- **Haskell**, Prior Experience
