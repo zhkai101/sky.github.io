@@ -40,12 +40,12 @@ head: # 删改前确定知道自己在做什么
     value: baidu-site-verification
   - key: content
     value: lqfOFYYfi1
-- tag: meta # yandex站点验证
-  var:
-  - key: name
-    value: yandex-verification
-  - key: content
-    value: 52253e02830b443c
+#- tag: meta # yandex站点验证
+#  var:
+#  - key: name
+#    value: yandex-verification
+#  - key: content
+#   value: 52253e02830b443c
 - tag: link
   var:
   - key: rel
